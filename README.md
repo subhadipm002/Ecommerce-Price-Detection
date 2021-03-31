@@ -1,4 +1,4 @@
-# Ecommerce-Price-Analysis
+# Ecommerce-Price-Detection
 This is an Ecommerce Price Analysis Project, the main function is it will compare products price with your desired price
 and if the product's price is smaller than your desired price then it will send a notification email.
 To access the application first run g1.py,
